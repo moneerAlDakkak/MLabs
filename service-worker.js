@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/MLabs/precache-manifest.97fd8466290fa290cf045d55c0239074.js"
+  "/MLabs/precache-manifest.fc5f55355c94e76f0a0ebde7328e5b57.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "m-library"});
